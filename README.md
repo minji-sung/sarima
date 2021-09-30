@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Minji, data anlyst and researcher working with multiple International Organisations.
-- 👀 Currently working at Bulan Institute for Peace Innovations, I’m interested in SDGs, sustainable peacebuilding and human rights.
+- 👋 Hi, I’m Minji, data analyst and researcher working with multiple International Organisations.
+- 👀 This project is to predict future import price using SARIMA (Seasonal Autoregressive Integrated Moving Average).
 - 🌱 I’m currently using R, Python, PowerBI, Stata, NVivo, Tableau, etc.
 - ✨ My goal is to tell stories behind numbers.
 - 📫 How to reach me: https://www.linkedin.com/in/minji-sung/
